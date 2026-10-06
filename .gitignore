@@ -1,0 +1,13 @@
+# Vivado / xsim 산출물
+xsim.dir/
+*.pb
+*.jou
+*.log
+*.str
+*.wdb
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
